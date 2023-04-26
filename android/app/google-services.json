@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "85586840117",
+    "project_id": "prolific-f8b25",
+    "storage_bucket": "prolific-f8b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85586840117:android:5b3bf9c8d22ab065eb7f7c",
+        "android_client_info": {
+          "package_name": "com.example.prolific"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85586840117-p4m50tef5ru3etg0g8pld00jug9m8ka8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyogeIi9hjvo46IvAGtdJKM47yGaYE3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85586840117-cpljp83c3pj45bhepofn0b3luhc3goev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85586840117-hvmn5rcsuahuic0op2v7004b4k00n2dh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prolific"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
