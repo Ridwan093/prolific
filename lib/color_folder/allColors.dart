@@ -1,23 +1,16 @@
-
-
-
-
-
-
-
-
-
 import 'package:flutter/material.dart';
 
-
-
 class ColorConstants {
-  static  Color maniColor = hexToColor("#F57A07");
- static  Color backGroundColor = hexToColor("#ECE5DB");
- static Color  secondBgColor = hexToColor("#D1B893");
- static Color sideBarLinerColor = hexToColor("#483D27");
- static Color bottomSideColor = hexToColor("#D8B178");
- static Color bottombarButtoncolor = hexToColor("#EC9410");
+  static Color mainColor = hexToColor("#F57A07");
+  static Color backGroundColor = hexToColor("#ECE5DB");
+  static Color secondBgColor = hexToColor("#D1B893");
+  static Color sideBarLinerColor = hexToColor("#483D27");
+  static Color bottomSideColor = hexToColor("#D8B178");
+  static Color bottombarButtoncolor = hexToColor("#EC9410");
+  static Color adminBgColor = hexToColor("#D1B893");
+
+  static Color searchFildColors = hexToColor("#D9D9D9");
+  static Color ativeColor = hexToColor("#24FF00");
 }
 
 Color hexToColor(String hex) {
